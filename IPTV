@@ -1,0 +1,295 @@
+
+
+#EXTINF:-1,Baraem
+http://stream.shabakaty.com:6001/kids/ch1/adaptive.m3u8
+
+#EXTINF:-1,Baby TV
+http://stream.shabakaty.com:6001/kids/ch2/adaptive.m3u8
+
+#EXTINF:-1,Boomerange HD
+http://stream.shabakaty.com:6001/kids/ch3/adaptive.m3u8
+
+#EXTINF:-1,CN
+http://stream.shabakaty.com:6001/kids/ch4/adaptive.m3u8
+
+#EXTINF:-1,DreamWorks TV
+http://stream.shabakaty.com:6001/kids/ch5/adaptive.m3u8
+
+#EXTINF:-1,JimJam
+http://stream.shabakaty.com:6001/kids/ch6/adaptive.m3u8
+
+#EXTINF:-1,BeJunior
+http://stream.shabakaty.com:6001/kids/ch7/adaptive.m3u8
+
+#EXTINF:-1,Jeem TV
+http://stream.shabakaty.com:6001/kids/ch8/adaptive.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://stream.shabakaty.com:6001/kids/ch9/adaptive.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://stream.shabakaty.com:6001/kids/ch10/adaptive.m3u8
+
+#EXTINF:-1,OSN kids
+http://stream.shabakaty.com:6001/kids/ch11/adaptive.m3u8
+
+#EXTINF:-1,Disney Channel
+http://stream.shabakaty.com:6001/kids/ch12/adaptive.m3u8
+
+
+--------------------------------------
+#EXTINF:-1,OSN Movies HD
+http://stream.shabakaty.com:6001/movies/ch1/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Comedy
+http://stream.shabakaty.com:6001/movies/ch2/adaptive.m3u8
+
+#EXTINF:-1,Ya Hala Cinema
+http://stream.shabakaty.com:6001/movies/ch3/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Action
+http://stream.shabakaty.com:6001/movies/ch4/adaptive.m3u8
+
+#EXTINF:-1,Star Movies
+http://stream.shabakaty.com:6001/movies/ch5/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Thriller
+http://stream.shabakaty.com:6001/movies/ch6/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies First
+http://stream.shabakaty.com:6001/movies/ch7/adaptive.m3u8
+
+#EXTINF:-1,Bein Movies 1
+http://stream.shabakaty.com:6001/movies/ch8/adaptive.m3u8
+
+#EXTINF:-1,Bein Movies 2
+http://stream.shabakaty.com:6001/movies/ch9/adaptive.m3u8
+
+#EXTINF:-1,Bein Movies 3
+http://stream.shabakaty.com:6001/movies/ch10/adaptive.m3u8
+
+#EXTINF:-1,Bein Movies 4
+http://stream.shabakaty.com:6001/movies/ch11/adaptive.m3u8
+
+#EXTINF:-1,Star World HD
+http://stream.shabakaty.com:6001/movies/ch12/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Box Office 1
+http://stream.shabakaty.com:6001/movies/ch13/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Box Office 2
+http://stream.shabakaty.com:6001/movies/ch14/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Festival
+http://stream.shabakaty.com:6001/movies/ch15/adaptive.m3u8
+
+#EXTINF:-1,MBC Max
+http://stream.shabakaty.com:6001/movies/ch16/adaptive.m3u8
+
+#EXTINF:-1,MBC Action
+http://stream.shabakaty.com:6001/movies/ch17/adaptive.m3u8
+
+#EXTINF:-1,OSN on Demand HD
+http://stream.shabakaty.com:6001/movies/ch18/adaptive.m3u8
+
+#EXTINF:-1,MBC 2
+http://stream.shabakaty.com:6001/movies/ch19/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Premiere
+http://stream.shabakaty.com:6001/movies/ch20/adaptive.m3u8
+
+#EXTINF:-1,Rotana Cinema
+http://stream.shabakaty.com:6001/movies/ch21/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Action +2
+http://stream.shabakaty.com:6001/movies/ch22/adaptive.m3u8
+
+#EXTINF:-1,OSN Movies Family
+http://stream.shabakaty.com:6001/movies/ch23/adaptive.m3u8
+
+#EXTINF:-1,Alfa Cinema 1
+http://stream.shabakaty.com:6001/movies/ch24/adaptive.m3u8
+
+#EXTINF:-1,Alfa Cinema 2
+http://stream.shabakaty.com:6001/movies/ch25/adaptive.m3u8
+---------------------------------------------
+
+#EXTINF:-1,Seevii Prime 2
+http://stream.shabakaty.com:6001/series/ch1/adaptive.m3u8
+
+#EXTINF:-1,Ya Hala Drama
+http://stream.shabakaty.com:6001/series/ch2/adaptive.m3u8
+
+#EXTINF:-1,MBC+ Drama
+http://stream.shabakaty.com:6001/series/ch3/adaptive.m3u8
+
+#EXTINF:-1,Bein Series HD1
+http://stream.shabakaty.com:6001/series/ch4/adaptive.m3u8
+
+#EXTINF:-1,Seevii Drama
+http://stream.shabakaty.com:6001/series/ch5/adaptive.m3u8
+
+#EXTINF:-1,Seevii Prime 1
+http://stream.shabakaty.com:6001/series/ch6/adaptive.m3u8
+
+#EXTINF:-1,Bein Drama HD1
+http://stream.shabakaty.com:6001/series/ch7/adaptive.m3u8
+
+#EXTINF:-1,Bein Series HD2
+http://stream.shabakaty.com:6001/series/ch8/adaptive.m3u8
+
+#EXTINF:-1,Fatafeat
+http://stream.shabakaty.com:6001/series/ch9/adaptive.m3u8
+
+#EXTINF:-1,Rotana Drama
+http://stream.shabakaty.com:6001/series/ch10/adaptive.m3u8
+
+#EXTINF:-1,FX HD
+http://stream.shabakaty.com:6001/series/ch11/adaptive.m3u8
+-----------------------------------
+#EXTINF:-1,Discovery Invistigation
+http://stream.shabakaty.com:6001/enter/ch1/adaptive.m3u8
+
+#EXTINF:-1,Discovery 
+http://stream.shabakaty.com:6001/enter/ch2/adaptive.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://stream.shabakaty.com:6001/enter/ch3/adaptive.m3u8
+
+#EXTINF:-1,Food Network
+http://stream.shabakaty.com:6001/enter/ch4/adaptive.m3u8
+
+#EXTINF:-1,History 1
+http://stream.shabakaty.com:6001/enter/ch5/adaptive.m3u8
+
+#EXTINF:-1,E
+http://stream.shabakaty.com:6001/enter/ch6/adaptive.m3u8
+
+#EXTINF:-1,TLC
+http://stream.shabakaty.com:6001/enter/ch7/adaptive.m3u8
+
+#EXTINF:-1,FataFeat
+http://stream.shabakaty.com:6001/enter/ch8/adaptive.m3u8
+
+#EXTINF:-1,Sky Comedy
+http://stream.shabakaty.com:6001/enter/ch9/adaptive.m3u8
+
+#EXTINF:-1,Nat Geo People
+http://stream.shabakaty.com:6001/enter/ch10/adaptive.m3u8
+
+#EXTINF:-1,Discovery Sciens
+http://stream.shabakaty.com:6001/enter/ch11/adaptive.m3u8
+
+#EXTINF:-1,AMC
+http://stream.shabakaty.com:6001/enter/ch12/adaptive.m3u8
+
+#EXTINF:-1,MBC1
+http://stream.shabakaty.com:6001/enter/ch13/adaptive.m3u8
+
+#EXTINF:-1,MBC4
+http://stream.shabakaty.com:6001/enter/ch14/adaptive.m3u8
+
+#EXTINF:-1,VH1
+http://stream.shabakaty.com:6001/enter/ch15/adaptive.m3u8
+
+#EXTINF:-1,MBC+ Variety
+http://stream.shabakaty.com:6001/enter/ch16/adaptive.m3u8
+
+#EXTINF:-1,NAT GEO
+http://stream.shabakaty.com:6001/enter/ch17/adaptive.m3u8
+
+#EXTINF:-1,Animal Planet
+http://stream.shabakaty.com:6001/enter/ch18/adaptive.m3u8
+
+#EXTINF:-1,MBC Masr
+http://stream.shabakaty.com:6001/enter/ch19/adaptive.m3u8
+
+#EXTINF:-1,dmc HD
+http://stream.shabakaty.com:6001/enter/ch20/adaptive.m3u8
+
+#EXTINF:-1,NRJ Hits
+http://stream.shabakaty.com:6001/enter/ch21/adaptive.m3u8
+
+#EXTINF:-1,Music Now
+http://stream.shabakaty.com:6001/enter/ch22/adaptive.m3u8
+
+#EXTINF:-1,Travel Ch
+http://stream.shabakaty.com:6001/enter/ch23/adaptive.m3u8
+
+#EXTINF:-1,Alsharqia 
+http://stream.shabakaty.com:6001/enter/ch24/adaptive.m3u8
+
+#EXTINF:-1,Mtv Lebanon
+http://stream.shabakaty.com:6001/enter/ch25/adaptive.m3u8
+
+#EXTINF:-1,France 24
+http://stream.shabakaty.com:6001/enter/ch26/adaptive.m3u8
+
+#EXTINF:-1,Dubai
+http://stream.shabakaty.com:6001/enter/ch27/adaptive.m3u8
+
+#EXTINF:-1,Abu Dhabi
+http://stream.shabakaty.com:6001/enter/ch28/adaptive.m3u8
+
+#EXTINF:-1,Sama Dubai
+http://stream.shabakaty.com:6001/enter/ch29/adaptive.m3u8
+
+#EXTINF:-1,HG TV
+http://stream.shabakaty.com:6001/enter/ch30/adaptive.m3u8
+
+#EXTINF:-1,Fox Life
+http://stream.shabakaty.com:6001/enter/ch31/adaptive.m3u8
+
+#EXTINF:-1,Outdoor
+http://stream.shabakaty.com:6001/enter/ch32/adaptive.m3u8
+--------------------------------------------------------------
+#EXTINF:-1,Bein Sport 1
+http://stream.shabakaty.com:6001/sport/ch1/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 2
+http://stream.shabakaty.com:6001/sport/ch2/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 3
+http://stream.shabakaty.com:6001/sport/ch3/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 4
+http://stream.shabakaty.com:6001/sport/ch4/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 5
+http://stream.shabakaty.com:6001/sport/ch5/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 6
+http://stream.shabakaty.com:6001/sport/ch6/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 7
+http://stream.shabakaty.com:6001/sport/ch7/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 8
+http://stream.shabakaty.com:6001/sport/ch8/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 9
+http://stream.shabakaty.com:6001/sport/ch9/adaptive.m3u8
+
+#EXTINF:-1,Bein Sport 10
+http://stream.shabakaty.com:6001/sport/ch10/adaptive.m3u8
+
+#EXTINF:-1,Bein NBA
+http://stream.shabakaty.com:6001/sport/ch11/adaptive.m3u8
+
+#EXTINF:-1,Al-Iraqia Sport
+http://stream.shabakaty.com:6001/sport/ch12/adaptive.m3u8
+
+#EXTINF:-1,ALkass 1 HD
+http://stream.shabakaty.com:6001/sport/ch15/adaptive.m3u8
+
+#EXTINF:-1,ALkass 2 HD
+http://stream.shabakaty.com:6001/sport/ch14/adaptive.m3u8
+
+#EXTINF:-1,AD Sport 1
+http://stream.shabakaty.com:6001/sport/ch20/adaptive.m3u8
+
+#EXTINF:-1,AD Sport 2
+http://stream.shabakaty.com:6001/sport/ch21/adaptive.m3u8
+
+#EXTINF:-1,OSN Sport HD
+http://stream.shabakaty.com:6001/sport/ch22/adaptive.m3u8
