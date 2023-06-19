@@ -1,294 +1,188 @@
-#EXTINF:-1,Baraem
-http://46.151.64.32:6001/kids/ch1/adaptive.m3u8
-
-#EXTINF:-1,Baby TV
-http://46.151.64.32:6001/kids/ch2/adaptive.m3u8
-
-#EXTINF:-1,Boomerange HD
-http://46.151.64.32:6001/kids/ch3/adaptive.m3u8
-
-#EXTINF:-1,CN
-http://46.151.64.32:6001/kids/ch4/adaptive.m3u8
-
-#EXTINF:-1,DreamWorks TV
-http://46.151.64.32:6001/kids/ch5/adaptive.m3u8
-
-#EXTINF:-1,JimJam
-http://46.151.64.32:6001/kids/ch6/adaptive.m3u8
-
-#EXTINF:-1,BeJunior
-http://46.151.64.32:6001/kids/ch7/adaptive.m3u8
-
-#EXTINF:-1,Jeem TV
-http://46.151.64.32:6001/kids/ch8/adaptive.m3u8
-
-#EXTINF:-1,ON Cartoon Zaman
-http://46.151.64.32:6001/kids/ch9/adaptive.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://46.151.64.32:6001/kids/ch10/adaptive.m3u8
-
-#EXTINF:-1,OSN kids
-http://46.151.64.32:6001/kids/ch11/adaptive.m3u8
-
-#EXTINF:-1,OSN Movies Disney
-http://46.151.64.32:6001/kids/ch12/adaptive.m3u8
-
-
---------------------------------------
-#EXTINF:-1,BEIN Movies Premiere
-http://46.151.64.32:6001/movies/ch1/adaptive.m3u8
-
-#EXTINF:-1,BEIN Movies Action
-http://46.151.64.32:6001/movies/ch2/adaptive.m3u8
-
-#EXTINF:-1,BEIN Movies Drama
-http://46.151.64.32:6001/movies/ch3/adaptive.m3u8
-
-#EXTINF:-1,BEIN Movies Family
-http://46.151.64.32:6001/movies/ch4/adaptive.m3u8
-
-#EXTINF:-1,Fox Movies
-http://46.151.64.32:6001/movies/ch5/adaptive.m3u8
-
-#EXTINF:-1,Fox Movies Action
-http://46.151.64.32:6001/movies/ch6/adaptive.m3u8
-
-#EXTINF:-1,Fox Movies Family
-http://46.151.64.32:6001/movies/ch7/adaptive.m3u8
-
-#EXTINF:-1,TCM
-http://46.151.64.32:6001/movies/ch8/adaptive.m3u8
-
-#EXTINF:-1,Fox
-http://46.151.64.32:6001/movies/ch9/adaptive.m3u8
-
-#EXTINF:-1,Star World HD
-http://46.151.64.32:6001/movies/ch10/adaptive.m3u8
-
-#EXTINF:-1,Star Movies HD
-http://46.151.64.32:6001/movies/ch11/adaptive.m3u8
-
-#EXTINF:-1,Fox Crime
-http://46.151.64.32:6001/movies/ch12/adaptive.m3u8
-
-#EXTINF:-1,OSN Movies
-http://46.151.64.32:6001/movies/ch13/adaptive.m3u8
-
-#EXTINF:-1,OSN Movies Action
-http://46.151.64.32:6001/movies/ch14/adaptive.m3u8
-
-#EXTINF:-1,OSN Movies First
-http://46.151.64.32:6001/movies/ch15/adaptive.m3u8
-
-#EXTINF:-1,Alfa Cinema 1
-http://46.151.64.32:6001/movies/ch16/adaptive.m3u8
-
-#EXTINF:-1,Alfa Cinema 2
-http://46.151.64.32:6001/movies/ch17/adaptive.m3u8
-
-#EXTINF:-1,OSN Yahala Cinema
-http://46.151.64.32:6001/movies/ch18/adaptive.m3u8
-
-#EXTINF:-1,OSN Movies Comedy
-http://46.151.64.32:6001/movies/ch19/adaptive.m3u8
-
-#EXTINF:-1,OSN on Demand
-http://46.151.64.32:6001/movies/ch20/adaptive.m3u8
-
-#EXTINF:-1,ART Cinema
-http://46.151.64.32:6001/movies/ch21/adaptive.m3u8
-
-#EXTINF:-1,ART Aflam 1
-http://46.151.64.32:6001/movies/ch22/adaptive.m3u8
-
-#EXTINF:-1,ART Aflam 2
-http://46.151.64.32:6001/movies/ch23/adaptive.m3u8
-
-#EXTINF:-1,OSN enigma
-http://46.151.64.32:6001/movies/ch24/adaptive.m3u8
-
-#EXTINF:-1,On-Arabic
-http://46.151.64.32:6001/movies/ch25/adaptive.m3u8
-
-#EXTINF:-1,ON-BoxOffice
-http://46.151.64.32:6001/movies/ch26/adaptive.m3u8
-
-#EXTINF:-1,MBC Bollywood
-http://46.151.64.32:6001/movies/ch27/adaptive.m3u8
-
-#EXTINF:-1,ON Comedy
-http://46.151.64.32:6001/movies/ch28/adaptive.m3u8
----------------------------------------------
-
-#EXTINF:-1,Bein Series HD
-http://46.151.64.32:6001/series/ch1/adaptive.m3u8
-
-#EXTINF:-1,Bein Series HD2
-http://46.151.64.32:6001/series/ch2/adaptive.m3u8
-
-#EXTINF:-1,Bein Drama HD
-http://46.151.64.32:6001/series/ch3/adaptive.m3u8
-
-#EXTINF:-1,FX HD
-http://46.151.64.32:6001/series/ch4/adaptive.m3u8
-
-#EXTINF:-1,Fox Riwayat
-http://46.151.64.32:6001/series/ch5/adaptive.m3u8
-
-#EXTINF:-1,OSN YaHala
-http://46.151.64.32:6001/series/ch6/adaptive.m3u8
-
-#EXTINF:-1,ON Sci-Fi
-http://46.151.64.32:6001/series/ch7/adaptive.m3u8
-
-#EXTINF:-1,MBC Drama
-http://46.151.64.32:6001/series/ch8/adaptive.m3u8
-
-#EXTINF:-1,OSN Series 1
-http://46.151.64.32:6001/series/ch9/adaptive.m3u8
-
-#EXTINF:-1,OSN YaHala 1
-http://46.151.64.32:6001/series/ch10/adaptive.m3u8
-
-#EXTINF:-1,ON Turkey
-http://46.151.64.32:6001/series/ch11/adaptive.m3u8
-
-#EXTINF:-1,Alfa Series 1
-http://46.151.64.32:6001/series/ch12/adaptive.m3u8
-
-#EXTINF:-1,Alfa Series 2
-http://46.151.64.32:6001/series/ch13/adaptive.m3u8
------------------------------------
-#EXTINF:-1,CBS Reality
-http://46.151.64.32:6001/enter/ch1/adaptive.m3u8
-
-#EXTINF:-1,DTX
-http://46.151.64.32:6001/enter/ch3/adaptive.m3u8
-
-#EXTINF:-1,NATGIO Abu Dhabi
-http://46.151.64.32:6001/enter/ch4/adaptive.m3u8
-
-#EXTINF:-1,NatGeo Wild
-http://46.151.64.32:6001/enter/ch5/adaptive.m3u8
-
-#EXTINF:-1,Bein Gourmet
-http://46.151.64.32:6001/enter/ch7/adaptive.m3u8
-
-#EXTINF:-1,FataFeat
-http://46.151.64.32:6001/enter/ch8/adaptive.m3u8
-
-#EXTINF:-1,Out door
-http://46.151.64.32:6001/enter/ch10/adaptive.m3u8
-
-#EXTINF:-1,Travel Channel
-http://46.151.64.32:6001/enter/ch11/adaptive.m3u8
-
-#EXTINF:-1,HGTV
-http://46.151.64.32:6001/enter/ch12/adaptive.m3u8
-
-#EXTINF:-1,Food Network
-http://46.151.64.32:6001/enter/ch13/adaptive.m3u8
-
-#EXTINF:-1,OSN Living
-http://46.151.64.32:6001/enter/ch14/adaptive.m3u8
-
-#EXTINF:-1,Fox Life
-http://46.151.64.32:6001/enter/ch15/adaptive.m3u8
-
-#EXTINF:-1,NatGeo People
-http://46.151.64.32:6001/enter/ch16/adaptive.m3u8
-
-#EXTINF:-1,amc HD
-http://46.151.64.32:6001/enter/ch17/adaptive.m3u8
-
-#EXTINF:-1,MBC Iraq
-http://46.151.64.32:6001/enter/ch18/adaptive.m3u8
-
-#EXTINF:-1,Discovery HD
-http://46.151.64.32:6001/enter/ch19/adaptive.m3u8
-
-#EXTINF:-1,History
-http://46.151.64.32:6001/enter/ch20/adaptive.m3u8
-
-#EXTINF:-1,TLC
-http://46.151.64.32:6001/enter/ch21/adaptive.m3u8
-
-#EXTINF:-1,E HD
-http://46.151.64.32:6001/enter/ch22/adaptive.m3u8
-
-#EXTINF:-1,IDX HD
-http://46.151.64.32:6001/enter/ch23/adaptive.m3u8
-
-#EXTINF:-1,Discovery Science
-http://46.151.64.32:6001/enter/ch24/adaptive.m3u8
-
-#EXTINF:-1,MBC Variety+
-http://46.151.64.32:6001/enter/ch25/adaptive.m3u8
-
-#EXTINF:-1,OSN Comedy
-http://46.151.64.32:6001/enter/ch26/adaptive.m3u8
-
-#EXTINF:-1,Discovery Family
-http://46.151.64.32:6001/enter/ch27/adaptive.m3u8
-
-#EXTINF:-1,Fashion Box
-http://46.151.64.32:6001/enter/ch28/adaptive.m3u8
-
-#EXTINF:-1,ON Historical
-http://46.151.64.32:6001/enter/ch29/adaptive.m3u8
-
-#EXTINF:-1,BBC PlanetEarth
-http://46.151.64.32:6001/enter/ch30/adaptive.m3u8
-
---------------------------------------------------------------
-#EXTINF:-1,Bein Sport 1
-http://46.151.64.32:6001/sport/ch1/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 2
-http://46.151.64.32:6001/sport/ch2/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 3
-http://46.151.64.32:6001/sport/ch3/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 4
-http://46.151.64.32:6001/sport/ch4/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 5
-http://46.151.64.32:6001/sport/ch5/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 6
-http://46.151.64.32:6001/sport/ch6/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 7
-http://46.151.64.32:6001/sport/ch7/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 8
-http://46.151.64.32:6001/sport/ch8/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 9
-http://46.151.64.32:6001/sport/ch9/adaptive.m3u8
-
-#EXTINF:-1,Bein Sport 10
-http://46.151.64.32:6001/sport/ch10/adaptive.m3u8
-
-#EXTINF:-1,Bein NBA
-http://46.151.64.32:6001/sport/ch11/adaptive.m3u8
-
-#EXTINF:-1,Al-Iraqia Sport
-http://46.151.64.32:6001/sport/ch12/adaptive.m3u8
-
-#EXTINF:-1,ALkass 1 HD
-http://46.151.64.32:6001/sport/ch15/adaptive.m3u8
-
-#EXTINF:-1,ALkass 2 HD
-http://46.151.64.32:6001/sport/ch14/adaptive.m3u8
-
-#EXTINF:-1,AD Sport 1
-http://46.151.64.32:6001/sport/ch20/adaptive.m3u8
-
-#EXTINF:-1,AD Sport 2
-http://46.151.64.32:6001/sport/ch21/adaptive.m3u8
-
-#EXTINF:-1,OSN Sport HD
-http://46.151.64.32:6001/sport/ch22/adaptive.m3u8
+By @ak.7.3.6 beinsport 1 HD 720p,http://stream.shashety.com:6001/sport/ch1/ch1_720.m3u8
+beinsport 2 HD 720p,http://stream.shashety.com:6001/sport/ch2/ch2_720.m3u8
+beinsport 3 HD 720p,http://stream.shashety.com:6001/sport/ch3/ch3_720.m3u8
+beinsport 4 HD 720p,http://stream.shashety.com:6001/sport/ch4/ch4_720.m3u8
+beinsport 5 HD 720p,http://stream.shashety.com:6001/sport/ch5/ch5_720.m3u8
+beinsport 6 HD 720p,http://stream.shashety.com:6001/sport/ch6/ch6_720.m3u8
+beinsport 7 HD 720p,http://stream.shashety.com:6001/sport/ch7/ch7_720.m3u8
+beinsport 8 HD 720p,http://stream.shashety.com:6001/sport/ch8/ch8_720.m3u8
+beinsport 9 HD 720p,http://stream.shashety.com:6001/sport/ch9/ch9_720.m3u8
+beinsport 10 HD 720p,http://stream.shashety.com:6001/sport/ch10/ch10_720.m3u8
+beinsport 11 HD 720p,http://stream.shashety.com:6001/sport/ch11/ch11_720.m3u8
+ksasport HD 720p,http://stream.shashety.com:6001/sport/ch12/ch12_720.m3u8
+alkass 1 HD 720p,http://stream.shashety.com:6001/sport/ch13/ch13_720.m3u8
+alkass 2 HD 720p,http://stream.shashety.com:6001/sport/ch14/ch14_720.m3u8
+alkass 3 HD 720p,http://stream.shashety.com:6001/sport/ch15/ch15_720.m3u8
+alkass 4 HD 720p,http://stream.shashety.com:6001/sport/ch16/ch16_720.m3u8
+alkass 5 HD 720p,http://stream.shashety.com:6001/sport/ch17/ch17_720.m3u8
+bein movies 1 HD 720p,http://stream.shashety.com:6001/movies/ch1/ch1_720.m3u8
+bein movies 2 HD 720p,http://stream.shashety.com:6001/movies/ch2/ch2_720.m3u8
+bein movies 3 HD 720p,http://stream.shashety.com:6001/movies/ch3/ch3_720.m3u8
+bein movies 4 HD 720p,http://stream.shashety.com:6001/movies/ch4/ch4_720.m3u8
+fox movies HD 720p,http://stream.shashety.com:6001/movies/ch5/ch5_720.m3u8
+fox action movies HD 720p,http://stream.shashety.com:6001/movies/ch6/ch6_720.m3u8
+fox family movies HD 720p,http://stream.shashety.com:6001/movies/ch7/ch7_720.m3u8
+TCM HD 720p,http://stream.shashety.com:6001/movies/ch8/ch8_720.m3u8
+FOX HD 720p,http://stream.shashety.com:6001/movies/ch9/ch9_720.m3u8
+starworld HD 720p,http://stream.shashety.com:6001/movies/ch10/ch10_720.m3u8
+Star Movies HD 720p,http://stream.shashety.com:6001/movies/ch11/ch11_720.m3u8
+FOX CRIME HD 720p,http://stream.shashety.com:6001/movies/ch12/ch12_720.m3u8
+OSN MOVIES HD 720p,http://stream.shashety.com:6001/movies/ch13/ch13_720.m3u8
+OSN ACTION HD 720p,http://stream.shashety.com:6001/movies/ch14/ch14_720.m3u8
+OSN MOVIES FIRST HD 720p,http://stream.shashety.com:6001/movies/ch15/ch15_720.m3u8
+OSN 2 HD 720p,http://stream.shashety.com:6001/movies/ch16/ch16_720.m3u8
+OSN 3 HD 720p,http://stream.shashety.com:6001/movies/ch17/ch17_720.m3u8
+OSN YA HALA HD 720p,http://stream.shashety.com:6001/movies/ch18/ch18_720.m3u8
+OSN COMEDY HD 720p,http://stream.shashety.com:6001/movies/ch19/ch19_720.m3u8
+OSN On DEMAND HD 720p,http://stream.shashety.com:6001/movies/ch20/ch20_720.m3u8
+art HD 720p,http://stream.shashety.com:6001/movies/ch21/ch21_720.m3u8
+art 1 HD 720p,http://stream.shashety.com:6001/movies/ch22/ch22_720.m3u8
+art 2 HD 720p,http://stream.shashety.com:6001/movies/ch23/ch23_720.m3u8
+osn enigms HD 720p,http://stream.shashety.com:6001/movies/ch24/ch24_720.m3u8
+ON Arabic HD 720p,http://stream.shashety.com:6001/movies/ch25/ch25_720.m3u8
+ON Box office HD 720p,http://stream.shashety.com:6001/movies/ch26/ch26_720.m3u8
+ON Bollywood HD 720p,http://stream.shashety.com:6001/movies/ch27/ch27_720.m3u8
+ON Comedy HD 720p,http://stream.shashety.com:6001/movies/ch28/ch28_720.m3u8
+bein series HD 720p,http://stream.shashety.com:6001/series/ch1/ch1_720.m3u8
+bein series 2 HD 720p,http://stream.shashety.com:6001/series/ch2/ch2_720.m3u8
+bein drama HD 720p,http://stream.shashety.com:6001/series/ch3/ch3_720.m3u8
+FXHD HD 720p,http://stream.shashety.com:6001/series/ch4/ch4_720.m3u8
+FOX Rwayat HD 720p,http://stream.shashety.com:6001/series/ch5/ch5_720.m3u8
+OSN Ya Hala HD 720p,http://stream.shashety.com:6001/series/ch6/ch6_720.m3u8
+SYFY HD 720p,http://stream.shashety.com:6001/series/ch7/ch7_720.m3u8
+MBC Drama HD 720p,http://stream.shashety.com:6001/series/ch8/ch8_720.m3u8
+abc news HD 720p,http://stream.shashety.com:6001/series/ch9/ch9_720.m3u8
+OSN AR 1 HD 720p,http://stream.shashety.com:6001/series/ch10/ch10_720.m3u8
+a tv HD 720p,http://stream.shashety.com:6001/series/ch11/ch11_720.m3u8
+CBS reality HD 720p,http://stream.shashety.com:6001/enter/ch1/ch1_720.m3u8
+DTX HD 720p,http://stream.shashety.com:6001/enter/ch3/ch3_720.m3u8
+NAT GEO HD 720p,http://stream.shashety.com:6001/enter/ch4/ch4_720.m3u8
+NAT GEO WILD HD 720p,http://stream.shashety.com:6001/enter/ch5/ch5_720.m3u8
+animal planet HD 720p,http://stream.shashety.com:6001/enter/ch6/ch6_720.m3u8
+bein GOURMET HD 720p,http://stream.shashety.com:6001/enter/ch7/ch7_720.m3u8
+fatafeat HD 720p,http://stream.shashety.com:6001/enter/ch8/ch8_720.m3u8
+DMAX HD 720p,http://stream.shashety.com:6001/enter/ch9/ch9_720.m3u8
+OUT DOOR HD 720p,http://stream.shashety.com:6001/enter/ch10/ch10_720.m3u8
+TRAVEL HD 720p,http://stream.shashety.com:6001/enter/ch11/ch11_720.m3u8
+HG TV HD 720p,http://stream.shashety.com:6001/enter/ch12/ch12_720.m3u8
+food HD 720p,http://stream.shashety.com:6001/enter/ch13/ch13_720.m3u8
+FINE LIVING HD 720p,http://stream.shashety.com:6001/enter/ch14/ch14_720.m3u8
+FOX life HD 720p,http://stream.shashety.com:6001/enter/ch15/ch15_720.m3u8
+NAT GEO people HD 720p,http://stream.shashety.com:6001/enter/ch16/ch16_720.m3u8
+amc HD 720p,http://stream.shashety.com:6001/enter/ch17/ch17_720.m3u8
+mbc Iraq HD 720p,http://stream.shashety.com:6001/enter/ch18/ch18_720.m3u8
+D HD 720p,http://stream.shashety.com:6001/enter/ch19/ch19_720.m3u8
+History HD 720p,http://stream.shashety.com:6001/enter/ch20/ch20_720.m3u8
+History 2 HD 720p,http://stream.shashety.com:6001/enter/ch29/ch29_720.m3u8
+TLC HD 720p,http://stream.shashety.com:6001/enter/ch21/ch21_720.m3u8
+E HD 720p,http://stream.shashety.com:6001/enter/ch22/ch22_720.m3u8
+ID HD 720p,http://stream.shashety.com:6001/enter/ch23/ch23_720.m3u8
+MBC VARIETY HD 720p,http://stream.shashety.com:6001/enter/ch25/ch25_720.m3u8
+Comedy Central HD 720p,http://stream.shashety.com:6001/enter/ch26/ch26_720.m3u8
+SCI HD 720p,http://stream.shashety.com:6001/enter/ch27/ch27_720.m3u8
+Planet Earth HD 720p,http://stream.shashety.com:6001/enter/ch30/ch30_720.m3u8
+Baaby tv HD 720p,http://stream.shashety.com:6001/kids/ch2/ch2_720.m3u8
+BOOB ERANG HD 720p,http://stream.shashety.com:6001/kids/ch3/ch3_720.m3u8
+CN arabic HD 720p,http://stream.shashety.com:6001/kids/ch4/ch4_720.m3u8
+DREAM WORLD HD 720p,http://stream.shashety.com:6001/kids/ch5/ch5_720.m3u8
+bein Junior HD 720p,http://stream.shashety.com:6001/kids/ch7/ch7_720.m3u8
+g HD 720p,http://stream.shashety.com:6001/kids/ch8/ch8_720.m3u8
+Kids HD 720p,http://stream.shashety.com:6001/kids/ch9/ch9_720.m3u8
+nickelodeon HD 720p,http://stream.shashety.com:6001/kids/ch10/ch10_720.m3u8
+OSN Kids HD 720p,http://stream.shashety.com:6001/kids/ch11/ch11_720.m3u8
+beinsport 1 HD 360p,http://stream.shashety.com:6001/sport/ch1/ch1_360.m3u8
+beinsport 2 HD 360p,http://stream.shashety.com:6001/sport/ch2/ch2_360.m3u8
+beinsport 3 HD 360p,http://stream.shashety.com:6001/sport/ch3/ch3_360.m3u8
+beinsport 4 HD 360p,http://stream.shashety.com:6001/sport/ch4/ch4_360.m3u8
+beinsport 5 HD 360p,http://stream.shashety.com:6001/sport/ch5/ch5_360.m3u8
+beinsport 6 HD 360p,http://stream.shashety.com:6001/sport/ch6/ch6_360.m3u8
+beinsport 7 HD 360p,http://stream.shashety.com:6001/sport/ch7/ch7_360.m3u8
+beinsport 8 HD 360p,http://stream.shashety.com:6001/sport/ch8/ch8_360.m3u8
+beinsport 9 HD 360p,http://stream.shashety.com:6001/sport/ch9/ch9_360.m3u8
+beinsport 10 HD 360p,http://stream.shashety.com:6001/sport/ch10/ch10_360.m3u8
+beinsport 11 HD 360p,http://stream.shashety.com:6001/sport/ch11/ch11_360.m3u8
+ksasport HD 360p,http://stream.shashety.com:6001/sport/ch12/ch12_360.m3u8
+alkass 1 HD 360p,http://stream.shashety.com:6001/sport/ch13/ch13_360.m3u8
+alkass 2 HD 360p,http://stream.shashety.com:6001/sport/ch14/ch14_360.m3u8
+alkass 3 HD 360p,http://stream.shashety.com:6001/sport/ch15/ch15_360.m3u8
+alkass 4 HD 360p,http://stream.shashety.com:6001/sport/ch16/ch16_360.m3u8
+alkass 5 HD 360p,http://stream.shashety.com:6001/sport/ch17/ch17_360.m3u8
+bein movies 1 HD 360p,http://stream.shashety.com:6001/movies/ch1/ch1_360.m3u8
+bein movies 2 HD 360p,http://stream.shashety.com:6001/movies/ch2/ch2_360.m3u8
+bein movies 3 HD 360p,http://stream.shashety.com:6001/movies/ch3/ch3_360.m3u8
+bein movies 4 HD 360p,http://stream.shashety.com:6001/movies/ch4/ch4_360.m3u8
+fox movies HD 360p,http://stream.shashety.com:6001/movies/ch5/ch5_360.m3u8
+fox action movies HD 360p,http://stream.shashety.com:6001/movies/ch6/ch6_360.m3u8
+fox family movies HD 360p,http://stream.shashety.com:6001/movies/ch7/ch7_360.m3u8
+TCM HD 360p,http://stream.shashety.com:6001/movies/ch8/ch8_360.m3u8
+FOX HD 360p,http://stream.shashety.com:6001/movies/ch9/ch9_360.m3u8
+starworld HD 360p,http://stream.shashety.com:6001/movies/ch10/ch10_360.m3u8
+Star Movies HD 360p,http://stream.shashety.com:6001/movies/ch11/ch11_360.m3u8
+FOX CRIME HD 360p,http://stream.shashety.com:6001/movies/ch12/ch12_360.m3u8
+OSN MOVIES HD 360p,http://stream.shashety.com:6001/movies/ch13/ch13_360.m3u8
+OSN ACTION HD 360p,http://stream.shashety.com:6001/movies/ch14/ch14_360.m3u8
+OSN MOVIES FIRST HD 360p,http://stream.shashety.com:6001/movies/ch15/ch15_360.m3u8
+OSN 2 HD 360p,http://stream.shashety.com:6001/movies/ch16/ch16_360.m3u8
+OSN 3 HD 360p,http://stream.shashety.com:6001/movies/ch17/ch17_360.m3u8
+OSN YA HALA HD 360p,http://stream.shashety.com:6001/movies/ch18/ch18_360.m3u8
+OSN COMEDY HD 360p,http://stream.shashety.com:6001/movies/ch19/ch19_360.m3u8
+OSN On DEMAND HD 360p,http://stream.shashety.com:6001/movies/ch20/ch20_360.m3u8
+art HD 360p,http://stream.shashety.com:6001/movies/ch21/ch21_360.m3u8
+art 1 HD 360p,http://stream.shashety.com:6001/movies/ch22/ch22_360.m3u8
+art 2 HD 360p,http://stream.shashety.com:6001/movies/ch23/ch23_360.m3u8
+osn enigms HD 360p,http://stream.shashety.com:6001/movies/ch24/ch24_360.m3u8
+ON Arabic HD 360p,http://stream.shashety.com:6001/movies/ch25/ch25_360.m3u8
+ON Box office HD 360p,http://stream.shashety.com:6001/movies/ch26/ch26_360.m3u8
+ON Bollywood HD 360p,http://stream.shashety.com:6001/movies/ch27/ch27_360.m3u8
+ON Comedy HD 360p,http://stream.shashety.com:6001/movies/ch28/ch28_360.m3u8
+bein series HD 360p,http://stream.shashety.com:6001/series/ch1/ch1_360.m3u8
+bein series 2 HD 360p,http://stream.shashety.com:6001/series/ch2/ch2_360.m3u8
+bein drama HD 360p,http://stream.shashety.com:6001/series/ch3/ch3_360.m3u8
+FXHD HD 360p,http://stream.shashety.com:6001/series/ch4/ch4_360.m3u8
+FOX Rwayat HD 360p,http://stream.shashety.com:6001/series/ch5/ch5_360.m3u8
+OSN Ya Hala HD 360p,http://stream.shashety.com:6001/series/ch6/ch6_360.m3u8
+SYFY HD 360p,http://stream.shashety.com:6001/series/ch7/ch7_360.m3u8
+MBC Drama HD 360p,http://stream.shashety.com:6001/series/ch8/ch8_360.m3u8
+abc news HD 360p,http://stream.shashety.com:6001/series/ch9/ch9_360.m3u8
+OSN AR 1 HD 360p,http://stream.shashety.com:6001/series/ch10/ch10_360.m3u8
+a tv HD 360p,http://stream.shashety.com:6001/series/ch11/ch11_360.m3u8
+CBS reality HD 360p,http://stream.shashety.com:6001/enter/ch1/ch1_360.m3u8
+DTX HD 360p,http://stream.shashety.com:6001/enter/ch3/ch3_360.m3u8
+NAT GEO HD 360p,http://stream.shashety.com:6001/enter/ch4/ch4_360.m3u8
+NAT GEO WILD HD 360p,http://stream.shashety.com:6001/enter/ch5/ch5_360.m3u8
+animal planet HD 360p,http://stream.shashety.com:6001/enter/ch6/ch6_360.m3u8
+bein GOURMET HD 360p,http://stream.shashety.com:6001/enter/ch7/ch7_360.m3u8
+fatafeat HD 360p,http://stream.shashety.com:6001/enter/ch8/ch8_360.m3u8
+DMAX HD 360p,http://stream.shashety.com:6001/enter/ch9/ch9_360.m3u8
+OUT DOOR HD 360p,http://stream.shashety.com:6001/enter/ch10/ch10_360.m3u8
+TRAVEL HD 360p,http://stream.shashety.com:6001/enter/ch11/ch11_360.m3u8
+HG TV HD 360p,http://stream.shashety.com:6001/enter/ch12/ch12_360.m3u8
+food HD 360p,http://stream.shashety.com:6001/enter/ch13/ch13_360.m3u8
+FINE LIVING HD 360p,http://stream.shashety.com:6001/enter/ch14/ch14_360.m3u8
+FOX life HD 360p,http://stream.shashety.com:6001/enter/ch15/ch15_360.m3u8
+NAT GEO people HD 360p,http://stream.shashety.com:6001/enter/ch16/ch16_360.m3u8
+amc HD 360p,http://stream.shashety.com:6001/enter/ch17/ch17_360.m3u8
+mbc Iraq HD 360p,http://stream.shashety.com:6001/enter/ch18/ch18_360.m3u8
+D HD 360p,http://stream.shashety.com:6001/enter/ch19/ch19_360.m3u8
+History HD 360p,http://stream.shashety.com:6001/enter/ch20/ch20_360.m3u8
+History 2 HD 360p,http://stream.shashety.com:6001/enter/ch29/ch29_360.m3u8
+TLC HD 360p,http://stream.shashety.com:6001/enter/ch21/ch21_360.m3u8
+E HD 360p,http://stream.shashety.com:6001/enter/ch22/ch22_360.m3u8
+ID HD 360p,http://stream.shashety.com:6001/enter/ch23/ch23_360.m3u8
+MBC VARIETY HD 360p,http://stream.shashety.com:6001/enter/ch25/ch25_360.m3u8
+Comedy Central HD 360p,http://stream.shashety.com:6001/enter/ch26/ch26_360.m3u8
+SCI HD 360p,http://stream.shashety.com:6001/enter/ch27/ch27_360.m3u8
+Planet Earth HD 360p,http://stream.shashety.com:6001/enter/ch30/ch30_360.m3u8
+Baaby tv HD 360p,http://stream.shashety.com:6001/kids/ch2/ch2_360.m3u8
+BOOB ERANG HD 360p,http://stream.shashety.com:6001/kids/ch3/ch3_360.m3u8
+CN arabic HD 360p,http://stream.shashety.com:6001/kids/ch4/ch4_360.m3u8
+DREAM WORLD HD 360p,http://stream.shashety.com:6001/kids/ch5/ch5_360.m3u8
+bein Junior HD 360p,http://stream.shashety.com:6001/kids/ch7/ch7_360.m3u8
+g HD 360p,http://stream.shashety.com:6001/kids/ch8/ch8_360.m3u8
+Kids HD 360p,http://stream.shashety.com:6001/kids/ch9/ch9_360.m3u8
+nickelodeon HD 360p,http://stream.shashety.com:6001/kids/ch10/ch10_360.m3u8
+OSN Kids HD 360p,http://stream.shashety.com:6001/kids/ch11/ch11_360.m3u8
+beinsport 1 HD 1080p By @ak.7.3.6,http://stream.shashety.com:6001/sport/ch1/ch1_1080.m3u8
+beinsport 2 HD 1080p By @ak.7.3.6,http://stream.shashety.com:6001/sport/ch2/ch2_1080.m3u8
+beinsport 3 HD 1080p By @ak.7.3.6,http://stream.shashety.com:6001/sport/ch3/ch3_1080.m3u8
+beinsport 4 HD 1080p By @ak.7.3.6,http://stream.shashety.com:6001/sport/ch4/ch4_1080.m3u8
